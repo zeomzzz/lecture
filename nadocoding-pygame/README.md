@@ -10,8 +10,8 @@
 |2|배경|2_background.py|
 |3|캐릭터|3_main_sprite.py|
 |4|키보드 이벤트|4_keyboard_event.py|
-|5|FPS||
-|6|충돌 처리||
+|5|FPS|5_frame_per_second.py|
+|6|충돌 처리|6_collision.py|
 |7|텍스트||
 |8|게임 개발 프레임||
 |9|퀴즈 전반전||

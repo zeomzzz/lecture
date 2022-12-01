@@ -6,12 +6,12 @@
 
 |No.|Content|Attachments|
 |---|---|---|
-|1|환경설정 & 프레임|1_create.frame.py|
-|2|배경|2_background.py|
-|3|캐릭터|3_main_sprite.py|
-|4|키보드 이벤트|4_keyboard_event.py|
-|5|FPS|5_frame_per_second.py|
-|6|충돌 처리|6_collision.py|
+|1|환경설정 & 프레임|basic/src/1_create.frame.py|
+|2|배경|basic/src/2_background.py|
+|3|캐릭터|basic/src/3_main_sprite.py|
+|4|키보드 이벤트|basic/src/4_keyboard_event.py|
+|5|FPS|basic/src/5_frame_per_second.py|
+|6|충돌 처리|basic/src/6_collision.py|
 |7|텍스트||
 |8|게임 개발 프레임||
 |9|퀴즈 전반전||

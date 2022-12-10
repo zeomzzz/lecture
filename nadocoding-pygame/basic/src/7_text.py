@@ -18,7 +18,7 @@ background = pygame.image.load("/Users/zeommi/Documents/python/pygame_basic/back
 
 # 캐릭터(스프라이트) 불러오기
 character = pygame.image.load("/Users/zeommi/Documents/python/pygame_basic/character.png")
-character_size = character.get_rect().size # 이미지의 크기를 구해옴. rect : rectangel의 약자
+character_size = character.get_rect().size # 이미지의 크기를 구해옴. rect : rectangle의 약자
 character_width = character_size[0] # 캐릭터의 가로 크기
 character_height = character_size[1] # 캐릭터의 세로 크기
 character_x_pos = (screen_width / 2) - (character_width / 2)  # 화면 가로의 절반 크기에 해당하는 곳에 위치하도록 설정 (가로)
